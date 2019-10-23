@@ -1,0 +1,6 @@
+framework module LGEffectiveOC {
+  umbrella header "LGEffectiveOC-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - LGEffectiveOC (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - LGEffectiveOC (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  LGEffectiveOC:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  LGEffectiveOC: a2cfe2db9d5339d7b67c97776ad28a7bec941c8e
+
+PODFILE CHECKSUM: 13e399797035270d82fcc897e73a87801c2502af
+
+COCOAPODS: 1.8.3
